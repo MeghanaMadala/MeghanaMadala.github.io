@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MeghanaMadala/React-Deploy-Confusion.git/static/css/main.8728dafe.chunk.css",
+    "main.js": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/main.2bc632da.chunk.js",
+    "main.js.map": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/main.2bc632da.chunk.js.map",
+    "runtime-main.js": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/runtime-main.1c63f522.js",
+    "runtime-main.js.map": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/runtime-main.1c63f522.js.map",
+    "static/css/2.2cf4ebac.chunk.css": "/MeghanaMadala/React-Deploy-Confusion.git/static/css/2.2cf4ebac.chunk.css",
+    "static/js/2.90ceaafc.chunk.js": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/2.90ceaafc.chunk.js",
+    "static/js/2.90ceaafc.chunk.js.map": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/2.90ceaafc.chunk.js.map",
+    "index.html": "/MeghanaMadala/React-Deploy-Confusion.git/index.html",
+    "precache-manifest.7cb796ea354828bd29ffe0bc510b7554.js": "/MeghanaMadala/React-Deploy-Confusion.git/precache-manifest.7cb796ea354828bd29ffe0bc510b7554.js",
+    "service-worker.js": "/MeghanaMadala/React-Deploy-Confusion.git/service-worker.js",
+    "static/css/2.2cf4ebac.chunk.css.map": "/MeghanaMadala/React-Deploy-Confusion.git/static/css/2.2cf4ebac.chunk.css.map",
+    "static/css/main.8728dafe.chunk.css.map": "/MeghanaMadala/React-Deploy-Confusion.git/static/css/main.8728dafe.chunk.css.map",
+    "static/js/2.90ceaafc.chunk.js.LICENSE.txt": "/MeghanaMadala/React-Deploy-Confusion.git/static/js/2.90ceaafc.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/MeghanaMadala/React-Deploy-Confusion.git/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c63f522.js",
+    "static/css/2.2cf4ebac.chunk.css",
+    "static/js/2.90ceaafc.chunk.js",
+    "static/css/main.8728dafe.chunk.css",
+    "static/js/main.2bc632da.chunk.js"
+  ]
+}
